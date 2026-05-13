@@ -5,8 +5,8 @@ desarrollado en Python utilizando Programación
 Orientada a Objetos y manejo avanzado de excepciones.
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
+- ANTUAR JOSE ESCORCIA Fernadez
+
 
 ## Características
 - Gestión de clientes
